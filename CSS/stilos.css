@@ -8,13 +8,30 @@ body
     margin: 0;
     padding: 0;
 }
-#container{
+#cabecera {
+    background: rgba(247, 210, 5, 0.973);
+    box-shadow: 0px 2px 20px 0px
+    rgba(24, 24, 23, 0.973);
+    color: black;    
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#cabecera #tagline {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+#container {
     width: 70%;
     padding: 1em;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
 }
-#contenedor h1{
+#contenedor h1 {
     font-size: 20px;
+}
+#post{
+    padding: 1em;
 }
