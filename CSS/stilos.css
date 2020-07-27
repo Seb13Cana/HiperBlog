@@ -41,3 +41,10 @@ body
     background: burlywood;
     padding: 1em;
 }
+#footer
+{
+    background: #e6cf00;
+    color : white;
+    text-align: center;
+    padding: 0.5em;
+}
